@@ -7,16 +7,16 @@ function App() {
 
   return (
     <div className="app">
-      <h1 className="title">🎄 Merry Christmas 🎄</h1>
+      <h1 className="title">🎄 Merry Christmas Anu Papa!!❤️ 🎄</h1>
 
       <img
-        src="https://images.unsplash.com/photo-1608889175642-20c6b8f1bb09"
+        src="1.jpg"
         className="photo"
         alt="Christmas"
       />
 
       <p className="message">
-        Wishing you joy, peace, and happiness this Christmas ✨
+        Wishing you joy, peace, and happiness this Christmas ✨   
       </p>
 
       <footer>
