@@ -10,7 +10,7 @@ function App() {
       <h1 className="title">🎄 Merry Christmas Anu Papa!!❤️ 🎄</h1>
 
       <img
-        src="1.jpg"
+        src="./1.jpg"
         className="photo"
         alt="Christmas"
       />
